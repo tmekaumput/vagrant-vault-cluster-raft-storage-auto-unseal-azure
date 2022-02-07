@@ -1,0 +1,1 @@
+# -vagrant-vault-cluster-raft-storage-auto-unseal-azure
