@@ -10,6 +10,10 @@
 
 license.txt
 
+### Directory
+
+./data
+
 ### Run
 
 vagrant up
